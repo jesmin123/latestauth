@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727163527949",
+    "project_id": "latestauth",
+    "storage_bucket": "latestauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727163527949:android:050297f32261d6db2ac644",
+        "android_client_info": {
+          "package_name": "com.example.latestauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727163527949-h3qolg6br8j5ms0mao3gaonbu2bj1d0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsaD6vMBDZ3f4hnHMOSyHOOrxixLnCslc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727163527949-h3qolg6br8j5ms0mao3gaonbu2bj1d0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
